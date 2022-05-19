@@ -12,3 +12,8 @@ West Yorkshire street crime, stop and search dashboard
 data source: 
 2020~2022 UK police street crime, stop and search, outcomes of West Yorkshire region  
 https://data.police.uk/data/  
+
+Contains public sector information licensed under the Open Government Licence v3.0.  
+
+license reference:  
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/  
